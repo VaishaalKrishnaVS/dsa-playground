@@ -1,7 +1,6 @@
 package util;
 
-public interface IBaseClass {
-    void bruteForce();
+public interface IBaseClass extends IOptimalClass, IIntutuionClass
+{
     void better();
-    void optimal();
 }
