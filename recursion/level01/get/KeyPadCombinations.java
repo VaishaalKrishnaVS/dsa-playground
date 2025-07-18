@@ -1,4 +1,4 @@
-package recursion.level01;
+package recursion.level01.get;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -18,7 +18,7 @@ import java.util.Map;
  * <p>Time Complexity: O(4^n) where n is the length of input string Space Complexity: O(4^n) for
  * storing all combinations
  */
-public class KeyPadCombination {
+public class KeyPadCombinations {
   public static final Map<Character, List<Character>> map;
 
   static {

@@ -1,4 +1,4 @@
-package recursion.level01;
+package recursion.level01.get;
 
 import java.util.ArrayList;
 
@@ -13,7 +13,7 @@ import java.util.ArrayList;
  *
  * <p>Time Complexity: O(3^n) in worst case Space Complexity: O(3^n) for storing all paths
  */
-public class GetStairsPath {
+public class StairsPaths {
   public static void main(String[] args) {
     var n = 9;
     var ans = getStairsPath(n);
