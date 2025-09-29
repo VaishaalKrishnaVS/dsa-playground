@@ -1,0 +1,73 @@
+# 🚀 7-Day Binary Search Intense Practice Sheet
+
+### **Day 1 – Foundations**
+
+1. [LeetCode 704 – Binary Search](https://leetcode.com/problems/binary-search/)
+2. [LeetCode 35 – Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+3. [LeetCode 69 – Sqrt(x)](https://leetcode.com/problems/sqrtx/)
+4. [GFG – First and Last Occurrence](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1)
+5. [LeetCode 852 – Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+
+---
+
+### **Day 2 – Classic Variations**
+
+1. [LeetCode 33 – Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+2. [LeetCode 81 – Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
+3. [LeetCode 153 – Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+4. [LeetCode 162 – Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+5. [LeetCode 34 – Find First and Last Position](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+
+---
+
+### **Day 3 – Binary Search on Answers (Part 1)**
+
+1. [LeetCode 875 – Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
+2. [LeetCode 1011 – Capacity to Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+3. [GFG – Aggressive Cows](https://www.geeksforgeeks.org/problems/aggressive-cows/0)
+4. [GFG – Painter’s Partition Problem](https://practice.geeksforgeeks.org/problems/the-painters-partition-problem1535/1)
+5. [LeetCode 410 – Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
+
+---
+
+### **Day 4 – Binary Search on Answers (Part 2)**
+
+1. [LeetCode 378 – Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+2. [LeetCode 668 – Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)
+3. [LeetCode 719 – Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/)
+4. [LeetCode 1552 – Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/)
+5. (Optional repeat) [LeetCode 875 – Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) – redo to solidify.
+
+---
+
+### **Day 5 – Matrix & 2D Binary Search**
+
+1. [LeetCode 74 – Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+2. [LeetCode 240 – Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+3. [LeetCode 378 – Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) – revisit with optimized approach.
+4. [GFG – Median in Row-Wise Sorted Matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1)
+5. Variation practice: do LC 240 again with binary search per row.
+
+---
+
+### **Day 6 – Advanced / Hard**
+
+1. [LeetCode 4 – Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+2. [LeetCode 2141 – Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/)
+3. [LeetCode 1231 – Divide Chocolate](https://leetcode.com/problems/divide-chocolate/)
+4. [LeetCode 222 – Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)
+5. [LeetCode 302 – Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/)
+
+---
+
+### **Day 7 – God Stage Review + Mock Drill**
+
+- Pick 3–5 random problems from above, mix basics + hard (e.g., LC 33, LC 875, LC 4, LC 2141).
+- Solve under **timed conditions** (30–40 min each).
+- Re-write clean **binary search templates** for:
+
+  - Classic 1D array
+  - Lower/upper bound
+  - Rotated array
+  - Binary search on answer
+  - 2D matrix
